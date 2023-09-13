@@ -7,9 +7,9 @@ where continent is not null
 order by 3,4
 
 -- Dataset 2
---select *
---from portfolioproject.dbo.covidvaccinations
---order by 3,4
+select *
+from portfolioproject.dbo.covidvaccinations
+order by 3,4
 
 -- Select data values that is gonna be used
 
